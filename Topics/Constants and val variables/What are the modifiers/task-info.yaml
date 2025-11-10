@@ -1,0 +1,21 @@
+type: matching
+custom_name: What are the modifiers?
+captions:
+  - var
+  - val
+  - const val
+options:
+  - number = 0 <br> number = number1 + NUMBER_2
+  - number1 = 123
+  - NUMBER_2 = 321
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24246#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
